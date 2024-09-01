@@ -19,7 +19,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/twitter-clone.git
+git clone https://github.com/bhar007-neel/twitter-clone.git
 Navigate to the Project Directory:
 
 bash
