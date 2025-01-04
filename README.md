@@ -39,14 +39,7 @@ css/output.css: The compiled CSS file with Tailwind styles.
 Customization
 Feel free to modify the following to fit your needs:
 
-Colors and Themes: Adjust the Tailwind configuration for different color schemes.
-Layout: Customize the layout by editing the HTML and Tailwind classes.
-Icons: Replace or add new icons as required.
-Future Enhancements
-Authentication: Implement user authentication and profile management.
-Database Integration: Connect to a backend database for dynamic content.
-Advanced Interactions: Add more interactive features like real-time notifications and direct messages.
-Contributing
+
 If you want to contribute to this project, please follow these steps:
 
 Fork the repository.
