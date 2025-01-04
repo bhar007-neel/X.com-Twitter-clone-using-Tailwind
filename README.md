@@ -1,8 +1,14 @@
-Twitter Clone
-Overview
+**Twitter Clone**
+
+website-https://bhar007-neel.github.io/X.com-Twitter-clone-using-Tailwind/
+
+**Overview**
+
 Welcome to the Twitter Clone project! This is a simplified version of Twitter, built using Tailwind CSS for styling. This project is designed to provide a responsive, modern, and functional UI similar to Twitter, focusing on layout, navigation, and post functionalities.
 
-Features
+**Features**
+
+
 Responsive Layout: The design adjusts for various screen sizes, ensuring a seamless user experience on both desktop and mobile devices.
 Navigation Menu: Includes links to Home, Explore, Notifications, Messages, and other key features.
 User Profiles: Displays user profile information with a profile picture and username.
